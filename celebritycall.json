@@ -1,9 +1,10 @@
 {
   "AdType": "facebook",
   "Banner": "896398074918676_896400478251769",
-  "Interstitial": "896398074918676_897807521444398_11",
-  "Interstitial": "896398074918676_900526427839174",
+  "Interstitial": "896398074918676_901335437758273",
+  "Interstitial main": "896398074918676_897807521444398_11",
+  "Interstitial new": "896398074918676_900526427839174",
   "NativeBanner": "896398074918676_897807601444390",
   "Rewarded": "VID_HD_9_16_39S_LINK#YOUR_PLACEMENT_ID",
-  "count": "3"
+  "count": "4"
 }
